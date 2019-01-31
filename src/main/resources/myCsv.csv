@@ -1,0 +1,3 @@
+﻿User,Email,Client,Project,Task,Description,Billable,Start date,Start time,End date,End time,Duration,Tags,Amount ()
+testUser,testUser@gmail.com,,DEVELOPMENT,,Do task 1,No,2019-01-22,07:51:09,2019-01-22,16:30:09,08:39:00,20900,
+testUser,testUser@gmail.com,,DEVELOPMENT,,Do task 2 2018.3.2,No,2019-01-23,07:42:21,2019-01-23,15:50:21,08:08:00,20900,
